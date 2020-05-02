@@ -1,0 +1,34 @@
+spring.profiles: default
+
+employees:
+  student-list:
+  - id: 1
+    name: jack
+    dept: accounts
+  - id: 2
+    name: jill
+    dept: account
+    
+---
+spring.profiles: dev
+
+employees:
+  student-list:
+  - id: 3
+    name: john
+    dept: sales
+  - id: 4
+    name: jane
+    dept: sales
+
+---
+spring.profiles: test
+
+employees:
+  student-list:
+  - id: 5
+    name: james
+    dept: finance
+  - id: 6
+    name: jeni
+    dept: finance
