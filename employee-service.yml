@@ -1,7 +1,7 @@
 spring.profiles: default
 
 employees:
-  student-list:
+  employee-list:
   - id: 1
     name: jack
     dept: accounts
@@ -13,7 +13,7 @@ employees:
 spring.profiles: dev
 
 employees:
-  student-list:
+  employee-list:
   - id: 3
     name: john
     dept: sales
@@ -25,7 +25,7 @@ employees:
 spring.profiles: test
 
 employees:
-  student-list:
+  employee-list:
   - id: 5
     name: james
     dept: finance
