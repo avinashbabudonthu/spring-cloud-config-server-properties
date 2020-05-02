@@ -1,16 +1,28 @@
 spring.profiles: default
 
 accounts:
-  number: 1
+  account-list:
+    - number: 1
+      name: ana
+    - number: 2
+      name: james
 
 ---
 spring.profiles: dev
 
 accounts:
-  number: 2
+  account-list:
+    - number: 3
+      name: jack
+    - number: 4
+      name: jill
 
 ---
 spring.profiles: test
 
 accounts:
-  number: 3
+  account-list:
+    - number: 5
+      name: jane
+    - number: 6
+      name: matt
