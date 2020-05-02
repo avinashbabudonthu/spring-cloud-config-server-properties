@@ -7,7 +7,7 @@ employees:
     dept: accounts
   - id: 2
     name: jill
-    dept: account
+    dept: accounts
     
 ---
 spring.profiles: dev
