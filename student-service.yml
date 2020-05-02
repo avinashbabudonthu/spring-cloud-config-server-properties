@@ -1,0 +1,34 @@
+spring.profiles: default
+
+students:
+  student-list:
+  - id: 1
+    name: jack
+    course: java
+  - id: 2
+    name: jill
+    course: spring
+    
+---
+spring.profiles: dev
+
+students:
+  student-list:
+  - id: 3
+    name: john
+    course: jee
+  - id: 4
+    name: jane
+    course: spring-boot
+
+---
+spring.profiles: test
+
+students:
+  student-list:
+  - id: 5
+    name: james
+    course: spring-aop
+  - id: 6
+    name: jeni
+    course: spring-cloud
