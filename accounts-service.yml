@@ -1,0 +1,16 @@
+spring.profiles: default
+
+accounts:
+  number: 1
+
+---
+spring.profiles: dev
+
+accounts:
+  number: 2
+
+---
+spring.profiles: test
+
+accounts:
+  number: 3
