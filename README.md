@@ -13,3 +13,6 @@
 	
 * [Spring Cloud Config Server Cloud Config Client Feign Ribbon Eureka](https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign-ribbon-eureka)
 	* `accounts-service.yml` for https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign/accounts-service
+	
+* [Spring Cloud Config Server Cloud Config Client Feign Ribbon Eureka Discovery Server](https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign-ribbon-eureka/discovery-server)
+	* `discovery-server.yml` for https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign-ribbon-eureka/discovery-server
