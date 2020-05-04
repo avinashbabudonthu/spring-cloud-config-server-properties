@@ -7,3 +7,9 @@
 	
 * [Spring cloud config client feign](https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign)
 	* `accounts-service.yml` for https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign/accounts-service
+	
+* [Spring Cloud Config Server Cloud Config Client Feign Ribbon](https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign-ribbon)
+	* `accounts-service.yml` for https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign/accounts-service
+	
+* [Spring Cloud Config Server Cloud Config Client Feign Ribbon Eureka](https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign-ribbon-eureka)
+	* `accounts-service.yml` for https://github.com/avinashbabudonthu/micro-services/tree/master/spring-cloud-config-client-feign/accounts-service
