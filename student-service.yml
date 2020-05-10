@@ -35,3 +35,6 @@ students:
   - id: 7
     name: Ava
     course: spring-cloud-bus
+  - id: 8
+    name: Amelia
+    course: spring-cloud-bus-amqp
