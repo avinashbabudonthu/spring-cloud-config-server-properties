@@ -38,3 +38,6 @@ students:
   - id: 8
     name: Amelia
     course: spring-cloud-bus-amqp
+  - id: 9
+    name: Avery
+    course: microservices
