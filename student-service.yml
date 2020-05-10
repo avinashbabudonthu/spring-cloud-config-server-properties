@@ -32,3 +32,6 @@ students:
   - id: 6
     name: jeni
     course: spring-cloud
+  - id: 7
+    name: Ava
+    course: spring-cloud-bus
